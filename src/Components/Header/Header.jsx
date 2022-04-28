@@ -34,7 +34,7 @@ const Banner = () => {
                         <A
                             target='_blank'
                             rel='noopener noreferrer'
-                            href='https://github.com/aadityaneve/Portfolio/raw/master/public/resume/aditya-neve-resume-full-stack-web-dev.pdf'
+                            href='https://github.com/Rushikesh7997/Portfolio/raw/master/public/resume/Rushikesh%20Resume.pdf'
                         >
                             Resume
                         </A>
