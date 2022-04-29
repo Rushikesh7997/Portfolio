@@ -8,7 +8,7 @@ const Footer = () => {
             {/* </FooterLink> */}
             <FooterCont>
                 <A
-                    href='https://github.com/aadityaneve/Portfolio'
+                    href='https://github.com/Rushikesh7997/Portfolio'
                     target='_blank'
                     rel='noreferrer'
                 >
