@@ -28,6 +28,7 @@ const Skills = () => {
             id: 0,
             project_name: 'JavaScript',
             project_desc: <FaJs className='commonIcons' />,
+            href:"https://developer.mozilla.org/en-US/docs/Web/JavaScript",
         },
         {
             id: 1,
